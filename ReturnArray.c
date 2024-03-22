@@ -6,8 +6,7 @@
 
 
 float* returnArray(float *array, int size, int value)
- {
-	 
+{
 	 int i = 0;
      
      float* Array = {0};
