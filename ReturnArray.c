@@ -9,7 +9,7 @@ float* returnArray(float *array, int size, int value)
 {
 	 int i = 0;
      
-     float* Array = {0};
+    	 float* Array = {0};
 	 Array = (float*)malloc(sizeof(float) * size);
 	 
 
