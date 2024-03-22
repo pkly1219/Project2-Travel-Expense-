@@ -14,6 +14,7 @@ float* returnArray(float *array, int size, int value)
 	 Array = (float*)malloc(sizeof(float) * size);
 	 
 
+	 
      for(i = 0; i < size; i++)
      {
           Array[i] = value - array[i];
