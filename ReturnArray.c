@@ -23,6 +23,7 @@ float* returnArray(float *array, int size, int value)
      return Array;
  }
 
+
 float validInput(char userInput[20])
 {
 	goto functionStart;
